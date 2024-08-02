@@ -1,0 +1,25 @@
+variable is a container for storing information
+how to declare a function
+-let, var, const,
+let userName = "shalyne";
+var userName = "faith";
+const userName = "gilbert";
+types of datatypes:
+1. string
+2. boolean true/false
+3. number 
+4. array
+5. objects
+6. function
+7. undefined means that we are not giving name or we are not declaring anything
+comparisons 
+if(
+ //
+)
+// or operator
+how to write a function 
+function
+types of scopes: 
+functional scopes
+blog scopes
+global scope : is accessible everywhere in the code
